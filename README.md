@@ -8,10 +8,13 @@ I built a react app that used a google youtube API to display videos, as well as
 Include some screenshots.
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
-[Screenshot](Screen Shot 2021-09-22 at 11.51.14 AM.png)
-[Screenshot](Screen Shot 2021-09-22 at 11.51.29 AM.png)
-[Screenshot](Screen Shot 2021-09-22 at 11.51.40 AM.png)
-[Screenshot](Screen Shot 2021-09-22 at 11.51.51 AM.png)
+[Screenshot](/Screen Shot 2021-09-22 at 11.51.14 AM.png)
+
+[Screenshot](/Screen Shot 2021-09-22 at 11.51.29 AM.png)
+
+[Screenshot](/Screen Shot 2021-09-22 at 11.51.40 AM.png)
+
+[Screenshot](/Screen Shot 2021-09-22 at 11.51.51 AM.png)
 
 ## Who Did What?
 
