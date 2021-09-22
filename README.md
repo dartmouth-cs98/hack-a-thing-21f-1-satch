@@ -27,4 +27,6 @@ Satch Baker
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+Followed a tutorial from CS52/the Dali Dev page
+
+https://cs52.me/assignments/sa/react-native/
